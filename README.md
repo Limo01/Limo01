@@ -6,9 +6,9 @@
 <br>
 
 - 🔭 I’m currently working on Academic Projects
-- 🌱 I’m currently learning Cybersecurity best practices and Web Technologies
+- 🌱 I’m currently learning Computer Vision and Machine Learning
 - 👯 I’m looking to collaborate on stimulating projects
-- ⚡ 2022 goals: Learn more about Machine Learning and AI
+- ⚡ 2023 goals: Learn even more about Machine Learning and AI
 
 ### Languages and Tools: ###
 
